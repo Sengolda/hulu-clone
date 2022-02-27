@@ -9,6 +9,7 @@ export default function Home({ results }) {
     <div>
       <Head>
         <title>Hulu Clone</title>
+        <meta property="description" content="A Hulu Clone" />
         <meta property="og:description" content="A Hulu Clone" />
         <link rel="icon" href="/hulu-logo.jpeg" />
       </Head>
