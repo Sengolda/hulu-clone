@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import { ThumbUpIcon} from '@heroicons/react/outline'
+import { ThumbUpIcon } from '@heroicons/react/outline'
 
 const Thumbnail = ({ result }) => {
     const BASE_URL = 'https://image.tmdb.org/t/p/original/'
